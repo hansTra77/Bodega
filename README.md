@@ -1,7 +1,7 @@
 # Bodega
 
 ###Tarea de Sistemas Operacionales.
-####Integrantes: Juan Pablo Medina Mora
+####Juan Pablo Medina Mora
 
 **Solucion:** 
 
