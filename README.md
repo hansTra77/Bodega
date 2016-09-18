@@ -8,6 +8,6 @@ En la clase Bodega existe un random que se encarga de dar los tiempos de espera 
 ---
 
 **Resultado:**  
-![alt text]("resultado captura.PNG")  
+![alt text](https://github.com/hansTra77/Bodega/blob/master/resultado%20captura.PNG)  
 
 ---
